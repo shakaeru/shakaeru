@@ -3,11 +3,15 @@
 <h3 align="center">CyberSecurity Enthusiast | DevOps | Machine Learning | IoT Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Securing+Systems%2C+One+Line+at+a+Time;DevOps+%26+Cloud+Enthusiast;Exploring+Machine+Learning+%26+IoT;Currently+Learning+AI+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Securing+Systems%2C+One+Line+at+a+Time;DevOps+%26+Cloud+Enthusiast;Exploring+Machine+Learning+%26+IoT;Computer+Engineering+Student+at+PCR;Currently+Learning+AI+🤖" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <em>"Talk is cheap. Show me the code." — Linus Torvalds</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Pekanbaru,_Indonesia-informational?style=for-the-badge&color=00B4D8" />
 </p>
 
 <p align="center">
@@ -23,14 +27,15 @@
 
 ## 👨‍💻 About Me
 
-Saya adalah seorang **Engineer** yang berbasis di **Pekanbaru, Indonesia**, dengan minat besar di persimpangan antara **keamanan siber, infrastruktur cloud, dan kecerdasan buatan**. Saya percaya bahwa sistem yang baik bukan hanya yang berfungsi, tetapi juga yang **aman, efisien, dan dapat diandalkan**.
+I'm an **Undergraduate Student in Computer Engineering Technology (D4)** at **Politeknik Caltex Riau**, based in **Pekanbaru, Indonesia**. My academic background fuels a growing passion at the intersection of **cybersecurity, cloud infrastructure, and artificial intelligence**. I believe great systems aren't just functional — they're **secure, scalable, and resilient by design**.
 
-- 🔐 Fokus pada **Security System** dan **Linux Administration**
-- ⚙️ Terbiasa membangun serta mengotomatisasi infrastruktur dengan pendekatan **DevOps**
-- 🧠 Sedang mendalami **Machine Learning** dan penerapannya pada dunia nyata
-- 🔧 Menyukai eksplorasi **Embedded System** dan **IoT**
-- 🌐 Peduli terhadap **Open-source** dan **Web Accessibility**
-- 🚀 **Saat ini sedang fokus:** Belajar AI secara mendalam
+- 🎓 Currently pursuing a **D4 in Computer Engineering Technology** at **Politeknik Caltex Riau (PCR)**
+- 🔐 Deeply focused on **Security Systems**, **Penetration Testing**, and **Linux Administration**
+- ⚙️ Building and automating infrastructure through a **DevOps** mindset (CI/CD, containers, orchestration)
+- 🧠 Actively exploring **Machine Learning** and its real-world applications
+- 🔧 Passionate about **Embedded Systems** and **IoT** development
+- 🌐 Committed to **Open-source** contribution and **Web Accessibility**
+- 🚀 **Current Focus:** Learning AI
 
 ---
 
@@ -47,6 +52,7 @@ Saya adalah seorang **Engineer** yang berbasis di **Pekanbaru, Indonesia**, deng
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 **Frameworks & Libraries**
@@ -57,45 +63,74 @@ Saya adalah seorang **Engineer** yang berbasis di **Pekanbaru, Indonesia**, deng
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-**Tools, Cloud & Database**
+**Cybersecurity & Networking**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+**DevOps & Cloud**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+**Databases**
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**IoT & Embedded Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
 </p>
 
 ---
 
 ## 🌱 Currently Focusing On
 
-> **Belajar AI** — Memperdalam pemahaman tentang Machine Learning dan penerapannya dalam sistem keamanan serta otomatisasi infrastruktur modern.
+> **Learning AI** — Deepening my understanding of Machine Learning and its applications in security systems and modern infrastructure automation.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafwan-khairullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafwan-khairullah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafwankhairullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafwankhairullah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafwan-khairullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafwankhairullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
-
-> 💡 *Ganti `shafwan-khairullah` pada URL di atas dengan username GitHub kamu yang sebenarnya agar statistik tampil dengan benar.*
 
 ---
 
 ## 📫 Let's Connect!
 
-Tertarik untuk berkolaborasi dalam proyek open-source, diskusi seputar keamanan siber, atau sekadar berbagi ilmu tentang DevOps & Machine Learning? Jangan ragu untuk terhubung dengan saya!
+Interested in collaborating on open-source projects, discussing cybersecurity, or exchanging ideas on DevOps & Machine Learning? Feel free to reach out — I'm always open to new connections and opportunities!
 
 <p align="center">
   <a href="https://linkedin.com/in/shafwan-khairullah" target="_blank">
@@ -111,5 +146,5 @@ Tertarik untuk berkolaborasi dalam proyek open-source, diskusi seputar keamanan 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shafwan-khairullah&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shafwankhairullah&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
 </p>
