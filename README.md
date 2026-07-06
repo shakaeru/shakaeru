@@ -3,7 +3,7 @@
 <h3 align="center">CyberSecurity Enthusiast | DevOps | Machine Learning | IoT Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Securing+Systems%2C+One+Line+at+a+Time;DevOps+%26+Cloud+Enthusiast;Exploring+Machine+Learning+%26+IoT;Computer+Engineering+Student+at+PCR;Currently+Learning+AI+🤖" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=000000&width=435&lines=Cybersecurity+Enthusiast+%7C+DevOps+Practitioner;Building+Secure+%26+Scalable+Systems;Machine+Learning+%26+IoT+Explorer;Currently+Diving+Deep+into+AI+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
